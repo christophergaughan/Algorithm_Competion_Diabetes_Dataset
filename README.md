@@ -1,4 +1,4 @@
-#To see the `Sweetviz` data tables:
+# To see the `Sweetviz` data tables:
 > sweetviz link = file:///Users/chrisgaughan/Desktop/Machine_Deep_learning/sweetviz_report.html
 
 ## What is Sweetviz?
