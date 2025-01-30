@@ -60,7 +60,7 @@ from sklearn.metrics import confusion_matrix, f1_score, classification_report, a
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.neighbors import KNeighborsClassifier
-
+```
 How to Use This Repository
 
 Clone the repository:
